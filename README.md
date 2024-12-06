@@ -1,4 +1,4 @@
-# Cafeteria API - Backend C#
+# Cafeteria ☕ - Backend C#
 
 ## Objetivos
 - Gerenciar pedidos;
